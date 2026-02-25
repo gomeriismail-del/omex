@@ -1,0 +1,6014 @@
+Product 1 - All Properties:
+{
+  "Usage-fr": {
+    "id": "%3B%5CFP",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Préparation",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Préparation",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laver les cheveux 2 à 3 fois avec un ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laver les cheveux 2 à 3 fois avec un ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "shampooing clarifiant",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "shampooing clarifiant",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " pour s'assurer qu'ils soient parfaitement propres et que les écailles soient ouvertes. Sécher les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " pour s'assurer qu'ils soient parfaitement propres et que les écailles soient ouvertes. Sécher les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " au sèche-cheveux.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " au sèche-cheveux.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Application",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Application",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Diviser les cheveux en petites mèches. Appliquer la protéine ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Diviser les cheveux en petites mèches. Appliquer la protéine ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "TN White Love",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "TN White Love",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " sur chaque mèche en peignant avec un peigne fin pour bien répartir le produit et retirer le surplus.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " sur chaque mèche en peignant avec un peigne fin pour bien répartir le produit et retirer le surplus.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Temps de pose",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Temps de pose",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laisser agir le produit entre ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laisser agir le produit entre ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 et 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 et 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (selon la nature et l'épaisseur du cheveu).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (selon la nature et l'épaisseur du cheveu).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Séchage",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Séchage",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Sécher complètement les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Sécher complètement les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " au sèche-cheveux (air froid puis tiède).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " au sèche-cheveux (air froid puis tiède).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Lissage (Plaque)",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Lissage (Plaque)",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Diviser les cheveux en mèches très fines. Utiliser un fer à lisser professionnel à haute température (jusqu'à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Diviser les cheveux en mèches très fines. Utiliser un fer à lisser professionnel à haute température (jusqu'à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "230°C / 480°F",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "230°C / 480°F",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Passer le fer ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Passer le fer ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 à 15 fois",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 à 15 fois",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " sur chaque mèche jusqu'à ce que le cheveu absorbe totalement le produit.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " sur chaque mèche jusqu'à ce que le cheveu absorbe totalement le produit.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finition",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finition",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laisser refroidir les cheveux pendant 15 minutes. Rincer avec un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laisser refroidir les cheveux pendant 15 minutes. Rincer avec un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+        "href": null
+      }
+    ]
+  },
+  "rating": {
+    "id": "G%7CCx",
+    "type": "number",
+    "number": 5
+  },
+  "old price": {
+    "id": "JEX%7B",
+    "type": "number",
+    "number": 35000
+  },
+  "Description-en": {
+    "id": "M%3A%5Eo",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Product:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Product:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " TN White Love Original Brazilian Protein.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " TN White Love Original Brazilian Protein.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Features:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Features:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "\n• Formalin-free and free from toxic chemicals.\n• No smoke during application.\n• Suitable for all hair types (African, coarse, fine, sensitive).\n• Safe for pregnant women and children.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n• Formalin-free and free from toxic chemicals.\n• No smoke during application.\n• Suitable for all hair types (African, coarse, fine, sensitive).\n• Safe for pregnant women and children.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Logistics:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Logistics:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Nationwide delivery (58 provinces) and available in individual doses or bulk 1-liter sizes.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Nationwide delivery (58 provinces) and available in individual doses or bulk 1-liter sizes.",
+        "href": null
+      }
+    ]
+  },
+  "Description-ar": {
+    "id": "OVKA",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "يُعد ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "يُعد ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "TN White Love",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "TN White Love",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " الجيل الجديد من بروتين \"وايت لوف\" البرازيلي، حيث يتميز بقوته وفعاليته العالية وهو مضمون بالوثائق من الشركة المصنعة في البرازيل.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " الجيل الجديد من بروتين \"وايت لوف\" البرازيلي، حيث يتميز بقوته وفعاليته العالية وهو مضمون بالوثائق من الشركة المصنعة في البرازيل.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "بلد المنشأ",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "بلد المنشأ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": صنع في البرازيل (أصلي 100%).\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": صنع في البرازيل (أصلي 100%).\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "الأمان",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "الأمان",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ":\n    ◦ خالي تماماً من مادة الفرمول.\n    ◦ خالي من المواد الكيميائية الضارة.\n    ◦ آمن لاستعمال المرأة الحامل.\n    ◦ آمن للاستعمال على الأطفال الصغار.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ":\n    ◦ خالي تماماً من مادة الفرمول.\n    ◦ خالي من المواد الكيميائية الضارة.\n    ◦ آمن لاستعمال المرأة الحامل.\n    ◦ آمن للاستعمال على الأطفال الصغار.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "التجربة أثناء التطبيق",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "التجربة أثناء التطبيق",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": لا يسبب أي انبعاث للدخان أثناء العمل به.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": لا يسبب أي انبعاث للدخان أثناء العمل به.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "أنواع الشعر المناسبة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "أنواع الشعر المناسبة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ":\n    ◦ الشعر الأفريقي.\n    ◦ الشعر الضعيف والحساس.\n    ◦ الشعر الخشن والرقيق.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ":\n    ◦ الشعر الأفريقي.\n    ◦ الشعر الضعيف والحساس.\n    ◦ الشعر الخشن والرقيق.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "معلومات البيع",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "معلومات البيع",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ":\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ":\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "السعر",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "السعر",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": 4500 دج للجرعة (100 مل).\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": 4500 دج للجرعة (100 مل).\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "الأحجام",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "الأحجام",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": متوفر أيضاً بعبوة 1 لتر المخصصة لصالونات الحلاقة.\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": متوفر أيضاً بعبوة 1 لتر المخصصة لصالونات الحلاقة.\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "التوصيل",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "التوصيل",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": متوفر لجميع الـ 58 ولاية.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": متوفر لجميع الـ 58 ولاية.",
+        "href": null
+      }
+    ]
+  },
+  "Usage-ar": {
+    "id": "RgnD",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "\n1. غسل الشعر بشامبو خاص (Clarifying) لفتح المسام.\n2. توزيع البروتين على الشعر مع ترك مسافة بسيطة عن الفروة.\n3. ترك المنتج ليعمل (عادة من 40 إلى 60 دقيقة).\n4. تجفيف الشعر ثم استخدام المكواة الحرارية (البلاك) خصلة بخصلة لثبيت المنتج.\n",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n1. غسل الشعر بشامبو خاص (Clarifying) لفتح المسام.\n2. توزيع البروتين على الشعر مع ترك مسافة بسيطة عن الفروة.\n3. ترك المنتج ليعمل (عادة من 40 إلى 60 دقيقة).\n4. تجفيف الشعر ثم استخدام المكواة الحرارية (البلاك) خصلة بخصلة لثبيت المنتج.\n",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "ه",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "ه",
+        "href": null
+      }
+    ]
+  },
+  "Description-fr": {
+    "id": "%5CIq%5D",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Produit:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Produit:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Protéine TN White Love Originale Brésilienne.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Protéine TN White Love Originale Brésilienne.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Caractéristiques:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Caractéristiques:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "\n• Sans formol et sans produits chimiques nocifs.\n• Ne produit pas de fumée pendant l'application.\n• Adapté aux cheveux afro, sensibilisés, fins ou épais.\n• Utilisable par les femmes enceintes et les enfants.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n• Sans formol et sans produits chimiques nocifs.\n• Ne produit pas de fumée pendant l'application.\n• Adapté aux cheveux afro, sensibilisés, fins ou épais.\n• Utilisable par les femmes enceintes et les enfants.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Vente:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Vente:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Livraison disponible dans les 58 wilayas; format 1L disponible pour les salons.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Livraison disponible dans les 58 wilayas; format 1L disponible pour les salons.",
+        "href": null
+      }
+    ]
+  },
+  "price": {
+    "id": "aWpg",
+    "type": "number",
+    "number": 32000
+  },
+  "ID": {
+    "id": "acIV",
+    "type": "unique_id",
+    "unique_id": {
+      "prefix": null,
+      "number": 2
+    }
+  },
+  "image1": {
+    "id": "cZuN",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767975471/1000103319-1152x2048_x68ksh.jpg"
+  },
+  "Usage-en": {
+    "id": "di%5Dt",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Preparation",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Preparation",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Wash the hair 2 to 3 times with a ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Wash the hair 2 to 3 times with a ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Clarifying Shampoo",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Clarifying Shampoo",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " to ensure it is completely clean and the pores are open. Dry the hair until it is about ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " to ensure it is completely clean and the pores are open. Dry the hair until it is about ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80% dry",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80% dry",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " using a hair dryer.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " using a hair dryer.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Application",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Application",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Divide the hair into small sections. Apply the ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Divide the hair into small sections. Apply the ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "TN White Love",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "TN White Love",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " protein to each section, using a fine-tooth comb to distribute it evenly and remove any excess.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " protein to each section, using a fine-tooth comb to distribute it evenly and remove any excess.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Waiting Time",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Waiting Time",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Allow the product to sit on the hair for ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Allow the product to sit on the hair for ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 to 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 to 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ", depending on the hair's thickness and curl level.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ", depending on the hair's thickness and curl level.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Drying",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Drying",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Blow-dry the hair ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Blow-dry the hair ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (starting with cool air, then moving to warm air).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (starting with cool air, then moving to warm air).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Flat Ironing",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Flat Ironing",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Divide the hair into very thin strands. Use a professional flat iron at high heat (up to ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Divide the hair into very thin strands. Use a professional flat iron at high heat (up to ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "230°C / 480°F",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "230°C / 480°F",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Pass the iron over each strand ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Pass the iron over each strand ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 to 15 times",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 to 15 times",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " until the product is fully sealed and the hair is smooth.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " until the product is fully sealed and the hair is smooth.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finishing",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finishing",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Let the hair cool for 15 minutes. Rinse with a sulfate-free mask or conditioner, then dry with air only to see the result.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Let the hair cool for 15 minutes. Rinse with a sulfate-free mask or conditioner, then dry with air only to see the result.",
+        "href": null
+      }
+    ]
+  },
+  "image2": {
+    "id": "woEa",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767975581/unnamed_qzo9w7.jpg"
+  },
+  "name": {
+    "id": "title",
+    "type": "title",
+    "title": [
+      {
+        "type": "text",
+        "text": {
+          "content": " ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "love white",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "love white",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "\n",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n",
+        "href": null
+      }
+    ]
+  }
+}
+Product 2 - All Properties:
+{
+  "Usage-fr": {
+    "id": "%3B%5CFP",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Lavage",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Lavage",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laver les cheveux 2 à 3 fois avec un ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laver les cheveux 2 à 3 fois avec un ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "shampooing clarifiant",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "shampooing clarifiant",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " pour s'assurer qu'ils soient parfaitement propres et que les pores soient ouverts. Sécher les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " pour s'assurer qu'ils soient parfaitement propres et que les pores soient ouverts. Sécher les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " au sèche-cheveux.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " au sèche-cheveux.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Application",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Application",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Diviser les cheveux en petites mèches. Appliquer le produit sur chaque mèche et peigner avec un peigne fin pour bien répartir le produit et retirer le surplus.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Diviser les cheveux en petites mèches. Appliquer le produit sur chaque mèche et peigner avec un peigne fin pour bien répartir le produit et retirer le surplus.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Temps de pose",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Temps de pose",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laisser agir entre ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laisser agir entre ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 et 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 et 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (selon le type de cheveu et le degré de frisure).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (selon le type de cheveu et le degré de frisure).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Séchage",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Séchage",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Une fois le temps écoulé, sécher les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Une fois le temps écoulé, sécher les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " au sèche-cheveux (air froid puis tiède).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " au sèche-cheveux (air froid puis tiède).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Lissage (Plaque)",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Lissage (Plaque)",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Diviser les cheveux en mèches très fines. Utiliser un fer à lisser à haute température (jusqu'à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Diviser les cheveux en mèches très fines. Utiliser un fer à lisser à haute température (jusqu'à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "230°C / 480°F",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "230°C / 480°F",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Passer le fer ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Passer le fer ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 à 15 fois",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 à 15 fois",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " sur chaque mèche jusqu'à ce que le cheveu absorbe complètement le produit et devienne lisse et brillant.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " sur chaque mèche jusqu'à ce que le cheveu absorbe complètement le produit et devienne lisse et brillant.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finition",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finition",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " : Laisser refroidir les cheveux pendant ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " : Laisser refroidir les cheveux pendant ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "15 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "15 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ". Rincer avec un après-shampooing ou un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ". Rincer avec un après-shampooing ou un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+        "href": null
+      }
+    ]
+  },
+  "rating": {
+    "id": "G%7CCx",
+    "type": "number",
+    "number": 5
+  },
+  "old price": {
+    "id": "JEX%7B",
+    "type": "number",
+    "number": 5000
+  },
+  "Description-en": {
+    "id": "M%3A%5Eo",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "100% Authentic",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100% Authentic",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": An original product manufactured in Brazil.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": An original product manufactured in Brazil.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Natural Ingredients",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Natural Ingredients",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Made from completely organic and natural materials such as Collagen, Argan Oil, Natural Cysteine, and Keratin.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Made from completely organic and natural materials such as Collagen, Argan Oil, Natural Cysteine, and Keratin.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Safety First",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Safety First",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Completely Formaldehyde-free formula.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Completely Formaldehyde-free formula.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Advanced Technology",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Advanced Technology",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Features the latest hair treatment technologies, including Nano-Technology.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Features the latest hair treatment technologies, including Nano-Technology.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "User-Friendly",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "User-Friendly",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Safe to use and produces no smoke during application.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Safe to use and produces no smoke during application.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Vitamin Enriched",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Vitamin Enriched",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Contains various vitamins that help soften hair and provide a smooth, healthy appearance.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Contains various vitamins that help soften hair and provide a smooth, healthy appearance.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Expected Results",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Expected Results",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Leaves hair soft and healthy without changing the color of dyed hair, while adding a beautiful shine.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Leaves hair soft and healthy without changing the color of dyed hair, while adding a beautiful shine.",
+        "href": null
+      }
+    ]
+  },
+  "Description-ar": {
+    "id": "OVKA",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "أصلي 100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "أصلي 100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": منتج أصلي مصنوع في البرازيل.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": منتج أصلي مصنوع في البرازيل.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "مكونات طبيعية",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "مكونات طبيعية",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": مصنوع من مواد عضوية وطبيعية تماماً مثل الكولاجين، زيت الأركان، السيستين الطبيعي، والكراتين.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": مصنوع من مواد عضوية وطبيعية تماماً مثل الكولاجين، زيت الأركان، السيستين الطبيعي، والكراتين.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "آمن وصحي",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "آمن وصحي",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": منتج خالي تماماً من الفورمالين.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": منتج خالي تماماً من الفورمالين.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "تقنية متطورة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "تقنية متطورة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يعتمد على أفضل تقنيات علاج الشعر مثل \"النانو تكنولوجي\".\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يعتمد على أفضل تقنيات علاج الشعر مثل \"النانو تكنولوجي\".\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "بدون إزعاج",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "بدون إزعاج",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": آمن للاستخدام وبدون تصاعد أي أدخنة.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": آمن للاستخدام وبدون تصاعد أي أدخنة.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "غني بالفيتامينات",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "غني بالفيتامينات",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يحتوي على العديد من الفيتامينات التي تساعد على تنعيم الشعر وإعطائه مظهراً ناعماً وصحياً.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يحتوي على العديد من الفيتامينات التي تساعد على تنعيم الشعر وإعطائه مظهراً ناعماً وصحياً.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "النتائج المتوقعة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "النتائج المتوقعة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يجعل الشعر رطباً وصحياً، ولا يغير لون الشعر المصبوغ، ويمنحه لمعة مميزة.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يجعل الشعر رطباً وصحياً، ولا يغير لون الشعر المصبوغ، ويمنحه لمعة مميزة.",
+        "href": null
+      }
+    ]
+  },
+  "Usage-ar": {
+    "id": "RgnD",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "غسل الشعر",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "غسل الشعر",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يغسل الشعر جيداً باستخدام \"شامبو كلاريفين جك\" (Clarifying Shampoo) من مرتين إلى ثلاث مرات للتأكد من نظافة الشعر تماماً وفتح المسام، ثم يُجفف الشعر بنسبة ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يغسل الشعر جيداً باستخدام \"شامبو كلاريفين جك\" (Clarifying Shampoo) من مرتين إلى ثلاث مرات للتأكد من نظافة الشعر تماماً وفتح المسام، ثم يُجفف الشعر بنسبة ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " باستخدام المجفف.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " باستخدام المجفف.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "تطبيق المنتج",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "تطبيق المنتج",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يتم تقسيم الشعر إلى خصلات صغيرة، ثم يوضع المنتج على كل خصلة مع التمشيط بمشط رفيع لضمان توزيع المنتج جيداً وإزالة الزائد منه.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يتم تقسيم الشعر إلى خصلات صغيرة، ثم يوضع المنتج على كل خصلة مع التمشيط بمشط رفيع لضمان توزيع المنتج جيداً وإزالة الزائد منه.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "مدة الانتظار",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "مدة الانتظار",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يُترك المنتج على الشعر لمدة تتراوح بين ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يُترك المنتج على الشعر لمدة تتراوح بين ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 إلى 60 دقيقة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 إلى 60 دقيقة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (حسب نوع الشعر ودرجة تجعده).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (حسب نوع الشعر ودرجة تجعده).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "التجفيف",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "التجفيف",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": بعد انتهاء المدة، يتم تجفيف الشعر تماماً بنسبة ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": بعد انتهاء المدة، يتم تجفيف الشعر تماماً بنسبة ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " باستخدام المجفف (هواء بارد ثم دافئ).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " باستخدام المجفف (هواء بارد ثم دافئ).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "استخدام المكواة (البلاك)",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "استخدام المكواة (البلاك)",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يتم تقسيم الشعر إلى خصلات رفيعة جداً، ويُستخدم \"البلاك\" بدرجة حرارة عالية (تصل إلى ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يتم تقسيم الشعر إلى خصلات رفيعة جداً، ويُستخدم \"البلاك\" بدرجة حرارة عالية (تصل إلى ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "480 فهرنهايت / 230 مئوية",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "480 فهرنهايت / 230 مئوية",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). يتم تمرير المكواة على كل خصلة من ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). يتم تمرير المكواة على كل خصلة من ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 إلى 15 مرة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 إلى 15 مرة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " حتى يمتص الشعر المنتج تماماً ويصبح ناعماً ولامعاً.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " حتى يمتص الشعر المنتج تماماً ويصبح ناعماً ولامعاً.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "الانتهاء",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "الانتهاء",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": يُترك الشعر ليبرد لمدة ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": يُترك الشعر ليبرد لمدة ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "15 دقيقة",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "15 دقيقة",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "، ثم يمكن غسله ببلسم أو ماسك خاص (خالي من السلفات) وتجفيفه بالهواء فقط لرؤية النتيجة النهائية.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "، ثم يمكن غسله ببلسم أو ماسك خاص (خالي من السلفات) وتجفيفه بالهواء فقط لرؤية النتيجة النهائية.",
+        "href": null
+      }
+    ]
+  },
+  "Description-fr": {
+    "id": "%5CIq%5D",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "100% Authentique",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100% Authentique",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Produit original fabriqué au Brésil.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Produit original fabriqué au Brésil.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Ingrédients Naturels",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Ingrédients Naturels",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Composé de matières organiques et totalement naturelles comme le Collagène, l'Huile d'Argan, la Cystéine naturelle et la Kératine.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Composé de matières organiques et totalement naturelles comme le Collagène, l'Huile d'Argan, la Cystéine naturelle et la Kératine.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Sûr et Sain",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Sûr et Sain",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Formule garantie sans formol (Formaldéhyde).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Formule garantie sans formol (Formaldéhyde).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Technologie de Pointe",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Technologie de Pointe",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Utilise les meilleures techniques de soin capillaire, notamment la Nano-technologie.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Utilise les meilleures techniques de soin capillaire, notamment la Nano-technologie.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Confort d'utilisation",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Confort d'utilisation",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Utilisation sûre sans dégagement de fumée.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Utilisation sûre sans dégagement de fumée.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Enrichi en Vitamines",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Enrichi en Vitamines",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Contient de nombreuses vitamines qui aident à lisser les cheveux et à leur donner un aspect soyeux et sain.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Contient de nombreuses vitamines qui aident à lisser les cheveux et à leur donner un aspect soyeux et sain.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Résultats",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Résultats",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Rend les cheveux souples et sains sans altérer la couleur des cheveux teints, tout en apportant une brillance éclatante.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Rend les cheveux souples et sains sans altérer la couleur des cheveux teints, tout en apportant une brillance éclatante.",
+        "href": null
+      }
+    ]
+  },
+  "price": {
+    "id": "aWpg",
+    "type": "number",
+    "number": 35000
+  },
+  "ID": {
+    "id": "acIV",
+    "type": "unique_id",
+    "unique_id": {
+      "prefix": null,
+      "number": 10
+    }
+  },
+  "image1": {
+    "id": "cZuN",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767974874/1000082172_pln98z.jpg"
+  },
+  "Usage-en": {
+    "id": "di%5Dt",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Washing",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Washing",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Wash the hair 2 to 3 times with ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Wash the hair 2 to 3 times with ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Clarifying Shampoo",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Clarifying Shampoo",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " to ensure it is perfectly clean and the pores (cuticles) are open. Dry the hair about ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " to ensure it is perfectly clean and the pores (cuticles) are open. Dry the hair about ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " using a hair dryer.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " using a hair dryer.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Application",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Application",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Divide the hair into small sections. Apply the product to each section and comb through with a fine-tooth comb to ensure even distribution and remove excess product.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Divide the hair into small sections. Apply the product to each section and comb through with a fine-tooth comb to ensure even distribution and remove excess product.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Waiting Time",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Waiting Time",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Leave the product on the hair for ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Leave the product on the hair for ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 to 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 to 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ", depending on the hair type and curl level.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ", depending on the hair type and curl level.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Drying",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Drying",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": After the waiting time, blow-dry the hair ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": After the waiting time, blow-dry the hair ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (starting with cool air, then warm air).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (starting with cool air, then warm air).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Flat Ironing",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Flat Ironing",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Divide the hair into very thin sections. Use a professional flat iron at high heat (up to ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Divide the hair into very thin sections. Use a professional flat iron at high heat (up to ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "480°F / 230°C",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "480°F / 230°C",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Pass the iron over each section ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Pass the iron over each section ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 to 15 times",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 to 15 times",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " until the hair fully absorbs the product and becomes smooth and shiny.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " until the hair fully absorbs the product and becomes smooth and shiny.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finishing",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finishing",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ": Let the hair cool for ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ": Let the hair cool for ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "15 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "15 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ". Rinse with a sulfate-free conditioner or mask, then blow-dry with air only to see the final result.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ". Rinse with a sulfate-free conditioner or mask, then blow-dry with air only to see the final result.",
+        "href": null
+      }
+    ]
+  },
+  "image2": {
+    "id": "woEa",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767974873/WhatsApp-Image-2025-04-24-at-23.01.49_dfihqy.jpg"
+  },
+  "name": {
+    "id": "title",
+    "type": "title",
+    "title": [
+      {
+        "type": "text",
+        "text": {
+          "content": "luxury therapie",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "luxury therapie",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "\n\n\n",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n\n\n",
+        "href": null
+      }
+    ]
+  }
+}
+Product 3 - All Properties:
+{
+  "Usage-fr": {
+    "id": "%3B%5CFP",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Le Lavage :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Le Lavage :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Laver les cheveux 2 à 3 fois avec un ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Laver les cheveux 2 à 3 fois avec un ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "shampooing clarifiant",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "shampooing clarifiant",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " pour s'assurer qu'ils soient parfaitement propres et que les écailles soient ouvertes. Sécher les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " pour s'assurer qu'ils soient parfaitement propres et que les écailles soient ouvertes. Sécher les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " à l'aide d'un sèche-cheveux.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " à l'aide d'un sèche-cheveux.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "L'Application :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "L'Application :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Diviser les cheveux en petites mèches. Appliquer la ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Diviser les cheveux en petites mèches. Appliquer la ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Cystéine",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Cystéine",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " sur chaque mèche en peignant avec un peigne fin pour bien répartir le produit et éliminer l'excédent.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " sur chaque mèche en peignant avec un peigne fin pour bien répartir le produit et éliminer l'excédent.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Temps de Pose :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Temps de Pose :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Laisser agir le produit entre ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Laisser agir le produit entre ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 et 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 et 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (selon la nature et le degré de frisure du cheveu).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (selon la nature et le degré de frisure du cheveu).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Le Séchage :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Le Séchage :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Une fois le temps écoulé, sécher complètement les cheveux à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Une fois le temps écoulé, sécher complètement les cheveux à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " au sèche-cheveux (air froid puis tiède).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " au sèche-cheveux (air froid puis tiède).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Le Lissage (Plaque) :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Le Lissage (Plaque) :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Diviser à nouveau les cheveux en fines mèches. Utiliser un fer à lisser professionnel à haute température (jusqu'à ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Diviser à nouveau les cheveux en fines mèches. Utiliser un fer à lisser professionnel à haute température (jusqu'à ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "230°C / 480°F",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "230°C / 480°F",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Passer le fer ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Passer le fer ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 à 15 fois",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 à 15 fois",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " sur chaque mèche jusqu'à ce que le produit soit totalement absorbé et que le cheveu devienne lisse et brillant.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " sur chaque mèche jusqu'à ce que le produit soit totalement absorbé et que le cheveu devienne lisse et brillant.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finition :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finition :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Laisser refroidir les cheveux pendant 15 minutes. Rincer avec un après-shampooing ou un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Laisser refroidir les cheveux pendant 15 minutes. Rincer avec un après-shampooing ou un masque sans sulfate, puis sécher simplement à l'air pour voir le résultat final.",
+        "href": null
+      }
+    ]
+  },
+  "rating": {
+    "id": "G%7CCx",
+    "type": "number",
+    "number": 5
+  },
+  "old price": {
+    "id": "JEX%7B",
+    "type": "number",
+    "number": 5000
+  },
+  "Description-en": {
+    "id": "M%3A%5Eo",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "100% Original Brazilian Product:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100% Original Brazilian Product:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " High-quality formula manufactured in Brazil.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " High-quality formula manufactured in Brazil.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Natural & Organic Ingredients:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Natural & Organic Ingredients:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Composed of entirely organic materials, including:\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Composed of entirely organic materials, including:\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Collagen:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Collagen:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " For strength and elasticity.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " For strength and elasticity.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Argan Oil:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Argan Oil:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " For deep hydration and shine.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " For deep hydration and shine.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Natural Cysteine:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Natural Cysteine:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " To repair the hair structure.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " To repair the hair structure.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Keratin:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Keratin:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " To smooth and protect hair strands.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " To smooth and protect hair strands.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Formaldehyde-Free:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Formaldehyde-Free:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " A safe formula that is 100% free of Formalin.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " A safe formula that is 100% free of Formalin.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Advanced Technology:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Advanced Technology:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Utilizes ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Utilizes ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Nano-Technology",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Nano-Technology",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " for deeper penetration and better results.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " for deeper penetration and better results.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Smoke-Free & Safe:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Smoke-Free & Safe:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Designed to be safe for use without producing irritating smoke or fumes.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Designed to be safe for use without producing irritating smoke or fumes.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Vitamin Enriched:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Vitamin Enriched:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Contains a blend of vitamins that nourish the hair, leaving it soft, healthy, and manageable.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Contains a blend of vitamins that nourish the hair, leaving it soft, healthy, and manageable.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Intended Results:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Intended Results:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Specifically formulated to transform \"African-textured\" or very curly/frizzy hair, making it straight, incredibly soft, and giving it a \"crazy\" brilliant shine.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Specifically formulated to transform \"African-textured\" or very curly/frizzy hair, making it straight, incredibly soft, and giving it a \"crazy\" brilliant shine.",
+        "href": null
+      }
+    ]
+  },
+  "Description-ar": {
+    "id": "OVKA",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "منتج أصلي:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "منتج أصلي:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " منتج برازيلي أصلي 100%.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " منتج برازيلي أصلي 100%.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "مكونات طبيعية:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "مكونات طبيعية:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " مصنوع من مواد عضوية وطبيعية تماماً، تشمل:\n    ◦ الكولاجين.\n    ◦ زيت الأركان.\n    ◦ السيستين الطبيعي.\n    ◦ الكراتين.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " مصنوع من مواد عضوية وطبيعية تماماً، تشمل:\n    ◦ الكولاجين.\n    ◦ زيت الأركان.\n    ◦ السيستين الطبيعي.\n    ◦ الكراتين.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "خالي من المواد الكيميائية الضارة:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "خالي من المواد الكيميائية الضارة:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " منتج خالي تماماً من الفورمالين (0% Formalin).\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " منتج خالي تماماً من الفورمالين (0% Formalin).\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "تقنية متطورة:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "تقنية متطورة:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يعتمد على تقنية ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يعتمد على تقنية ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "النانو تكنولوجي",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "النانو تكنولوجي",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " المتطورة لعلاج الشعر.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " المتطورة لعلاج الشعر.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "آمن وسهل الاستخدام:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "آمن وسهل الاستخدام:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " آمن تماماً عند الاستخدام وبدون تصاعد أدخنة.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " آمن تماماً عند الاستخدام وبدون تصاعد أدخنة.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "غني بالفيتامينات:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "غني بالفيتامينات:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يحتوي على العديد من الفيتامينات التي تساعد على تنعيم الشعر وإعطائه مظهراً ناعماً وصحياً.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يحتوي على العديد من الفيتامينات التي تساعد على تنعيم الشعر وإعطائه مظهراً ناعماً وصحياً.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "النتائج:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "النتائج:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يقضي على مشاكل الشعر المجعد (الأفريقي) والصعب التمشيط، ويمنحه رطوبة، نعومة، ولمعة فائقة.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يقضي على مشاكل الشعر المجعد (الأفريقي) والصعب التمشيط، ويمنحه رطوبة، نعومة، ولمعة فائقة.",
+        "href": null
+      }
+    ]
+  },
+  "Usage-ar": {
+    "id": "RgnD",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "غسل الشعر:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "غسل الشعر:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يغسل الشعر جيداً باستخدام \"شامبو كلاريفين جك\" (Clarifying Shampoo) من مرتين إلى ثلاث مرات للتأكد من نظافة الشعر تماماً وفتح المسام، ثم يُجفف الشعر بنسبة 80% باستخدام المجفف (Sèche-cheveux).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يغسل الشعر جيداً باستخدام \"شامبو كلاريفين جك\" (Clarifying Shampoo) من مرتين إلى ثلاث مرات للتأكد من نظافة الشعر تماماً وفتح المسام، ثم يُجفف الشعر بنسبة 80% باستخدام المجفف (Sèche-cheveux).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "تطبيق المنتج:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "تطبيق المنتج:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يتم تقسيم الشعر إلى خصلات صغيرة، ثم يوضع المنتج (السيستين) على كل خصلة مع التمشيط بمشط رفيع لضمان توزيع المنتج جيداً وإزالة الزائد منه.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يتم تقسيم الشعر إلى خصلات صغيرة، ثم يوضع المنتج (السيستين) على كل خصلة مع التمشيط بمشط رفيع لضمان توزيع المنتج جيداً وإزالة الزائد منه.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "مدة الانتظار:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "مدة الانتظار:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يُترك المنتج على الشعر لمدة تتراوح بين 40 إلى 60 دقيقة (حسب نوع الشعر ودرجة تجعده).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يُترك المنتج على الشعر لمدة تتراوح بين 40 إلى 60 دقيقة (حسب نوع الشعر ودرجة تجعده).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "التجفيف:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "التجفيف:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " بعد انتهاء المدة، يتم تجفيف الشعر تماماً بنسبة 100% باستخدام المجفف (هواء بارد ثم دافئ).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " بعد انتهاء المدة، يتم تجفيف الشعر تماماً بنسبة 100% باستخدام المجفف (هواء بارد ثم دافئ).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "استخدام المكواة (البلاك):",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "استخدام المكواة (البلاك):",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يتم تقسيم الشعر مرة أخرى إلى خصلات رفيعة جداً، ويُستخدم \"البلاك\" (السترايتنر) بدرجة حرارة عالية (تصل إلى 480 فهرنهايت أو 230 مئوية). يتم تمرير المكواة على كل خصلة من 10 إلى 15 مرة حتى يمتص الشعر المنتج تماماً ويصبح ناعماً ولامعاً.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يتم تقسيم الشعر مرة أخرى إلى خصلات رفيعة جداً، ويُستخدم \"البلاك\" (السترايتنر) بدرجة حرارة عالية (تصل إلى 480 فهرنهايت أو 230 مئوية). يتم تمرير المكواة على كل خصلة من 10 إلى 15 مرة حتى يمتص الشعر المنتج تماماً ويصبح ناعماً ولامعاً.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "الانتهاء:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "الانتهاء:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " يُترك الشعر ليبرد لمدة 15 دقيقة، ثم يمكن غسله ببلسم أو ماسك خاص (خالي من السلفات) وتجفيفه بالهواء فقط لرؤية النتيجة النهائية.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " يُترك الشعر ليبرد لمدة 15 دقيقة، ثم يمكن غسله ببلسم أو ماسك خاص (خالي من السلفات) وتجفيفه بالهواء فقط لرؤية النتيجة النهائية.",
+        "href": null
+      }
+    ]
+  },
+  "Description-fr": {
+    "id": "%5CIq%5D",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Produit Original Brésilien :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Produit Original Brésilien :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Formule 100% originale fabriquée au Brésil.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Formule 100% originale fabriquée au Brésil.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Ingrédients Naturels et Organiques :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Ingrédients Naturels et Organiques :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Composé de matières entièrement organiques et naturelles, notamment :\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Composé de matières entièrement organiques et naturelles, notamment :\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Collagène :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Collagène :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Pour la force et l'élasticité.\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Pour la force et l'élasticité.\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Huile d'Argan :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Huile d'Argan :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Pour une hydratation profonde et de la brillance.\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Pour une hydratation profonde et de la brillance.\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Cystéine Naturelle :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Cystéine Naturelle :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Pour reconstruire la structure capillaire.\n    ◦ ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Pour reconstruire la structure capillaire.\n    ◦ ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Kératine :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Kératine :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Pour lisser et protéger la fibre capillaire.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Pour lisser et protéger la fibre capillaire.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Sans Formaline :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Sans Formaline :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Produit totalement sans formol (0% Formalin).\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Produit totalement sans formol (0% Formalin).\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Technologie Avancée :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Technologie Avancée :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Utilise la ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Utilise la ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Nano-technologie",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Nano-technologie",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " pour un soin en profondeur des cheveux.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " pour un soin en profondeur des cheveux.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Sûr et Sans Fumée :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Sûr et Sans Fumée :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Utilisation sécurisée, garantie sans dégagement de fumée toxique.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Utilisation sécurisée, garantie sans dégagement de fumée toxique.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Enrichi en Vitamines :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Enrichi en Vitamines :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Contient de nombreuses vitamines qui aident à adoucir les cheveux et à leur donner un aspect sain et soyeux.\n• ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Contient de nombreuses vitamines qui aident à adoucir les cheveux et à leur donner un aspect sain et soyeux.\n• ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Résultats Attendus :",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Résultats Attendus :",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Conçu spécifiquement pour les cheveux de type \"africain\" ou très crépus/bouclés. Il rend les cheveux lisses, doux et leur donne une brillance exceptionnelle.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Conçu spécifiquement pour les cheveux de type \"africain\" ou très crépus/bouclés. Il rend les cheveux lisses, doux et leur donne une brillance exceptionnelle.",
+        "href": null
+      }
+    ]
+  },
+  "price": {
+    "id": "aWpg",
+    "type": "number",
+    "number": 35000
+  },
+  "ID": {
+    "id": "acIV",
+    "type": "unique_id",
+    "unique_id": {
+      "prefix": null,
+      "number": 9
+    }
+  },
+  "image1": {
+    "id": "cZuN",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767968703/20250426_113930_dg6mau.jpg"
+  },
+  "Usage-en": {
+    "id": "di%5Dt",
+    "type": "rich_text",
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "Washing:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Washing:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Wash the hair 2 to 3 times using a ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Wash the hair 2 to 3 times using a ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Clarifying Shampoo",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Clarifying Shampoo",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " to ensure it is perfectly clean and the cuticles are open. Dry the hair about ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " to ensure it is perfectly clean and the cuticles are open. Dry the hair about ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "80%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "80%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " using a blow dryer.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " using a blow dryer.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Application:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Application:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Divide the hair into small sections. Apply the ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Divide the hair into small sections. Apply the ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Cysteine",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Cysteine",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " product to each section, combing through with a fine-tooth comb to ensure even distribution and to remove any excess product.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " product to each section, combing through with a fine-tooth comb to ensure even distribution and to remove any excess product.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Waiting Time:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Waiting Time:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Leave the product on the hair for ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Leave the product on the hair for ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "40 to 60 minutes",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "40 to 60 minutes",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": ", depending on the hair type and curl intensity.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": ", depending on the hair type and curl intensity.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Drying:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Drying:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " After the waiting time, blow-dry the hair ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " After the waiting time, blow-dry the hair ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "100%",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "100%",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " (starting with cool air, then moving to warm air).",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " (starting with cool air, then moving to warm air).",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Flat Ironing:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Flat Ironing:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Divide the hair into very thin sections. Use a professional flat iron at high heat (up to ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Divide the hair into very thin sections. Use a professional flat iron at high heat (up to ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "230°C / 480°F",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "230°C / 480°F",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "). Pass the iron over each section ",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "). Pass the iron over each section ",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "10 to 15 times",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "10 to 15 times",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " until the hair fully absorbs the product and becomes smooth and shiny.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " until the hair fully absorbs the product and becomes smooth and shiny.",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": "Finishing:",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "Finishing:",
+        "href": null
+      },
+      {
+        "type": "text",
+        "text": {
+          "content": " Let the hair cool for 15 minutes. Rinse with a sulfate-free mask or conditioner, then blow-dry with air only to see the final result.",
+          "link": null
+        },
+        "annotations": {
+          "bold": false,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": " Let the hair cool for 15 minutes. Rinse with a sulfate-free mask or conditioner, then blow-dry with air only to see the final result.",
+        "href": null
+      }
+    ]
+  },
+  "image2": {
+    "id": "woEa",
+    "type": "url",
+    "url": "https://res.cloudinary.com/dicpjm1dz/image/upload/v1767968701/WhatsApp_Image_2026-01-04_at_11.04.11sss_AM_efssnz.jpg"
+  },
+  "name": {
+    "id": "title",
+    "type": "title",
+    "title": [
+      {
+        "type": "text",
+        "text": {
+          "content": "la cystéine gold thérapie",
+          "link": null
+        },
+        "annotations": {
+          "bold": true,
+          "italic": false,
+          "strikethrough": false,
+          "underline": false,
+          "code": false,
+          "color": "default"
+        },
+        "plain_text": "la cystéine gold thérapie",
+        "href": null
+      }
+    ]
+  }
+}
